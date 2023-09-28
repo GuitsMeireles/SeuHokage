@@ -7,3 +7,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=seuhokage&show_icons=true&theme=light)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seuhokage&layout=compact)
+
+
+![ffbe___cloud_strife_gif_1_by_zerolympiustrife_dbp6qj1](https://github.com/SeuHokage/SeuHokage/assets/54119888/8eceafab-388b-4cab-a31c-95a4b03fa293)
