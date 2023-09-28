@@ -1,5 +1,5 @@
-## Opa, belezinha?, meu nome é Guilherme Meireles e sou um aspirante a desenvolvedor Mobile 
-
+# Opa, belezinha?
+## Olá, meu nome é Guilherme Meireles e tenho 21 anos, bom eu tenho estudado deselvolvimento mobile por alguns meses.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gui-meireles)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/me1rel3s/)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@batistaguilherme681)
